@@ -67514,7 +67514,7 @@ function o2() {
               className: "grid md:grid-cols-3 gap-6 lg:gap-8",
               children: [
                 {
-                  image: "/images/kit-weekend-light.jpg",
+                  image: "./images/kit-weekend-light.jpg",
                   title: "Weekend Light Kit",
                   desc: "2P tent, sleep system, stove.",
                   price: "from $49",
