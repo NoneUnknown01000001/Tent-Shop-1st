@@ -67521,14 +67521,14 @@ function o2() {
                   offset: 0,
                 },
                 {
-                  image: "/images/kit-family-basecamp.jpg",
+                  image: "./images/kit-family-basecamp.jpg",
                   title: "Family Basecamp",
                   desc: "4P tent, chairs, kitchen box, lantern.",
                   price: "from $89",
                   offset: 4,
                 },
                 {
-                  image: "/images/kit-summit-sleep.jpg",
+                  image: "./images/kit-summit-sleep.jpg",
                   title: "Summit Sleep System",
                   desc: "0°F bag + insulated pad + pillow.",
                   price: "from $39",
@@ -67706,19 +67706,19 @@ function o2() {
                   style: { perspective: 1e3 },
                   children: [
                     {
-                      image: "/images/polaroid-alpine-lake.jpg",
+                      image: "./images/polaroid-alpine-lake.jpg",
                       caption: "Alpine Lake",
                     },
                     {
-                      image: "/images/polaroid-desert-rim.jpg",
+                      image: "./images/polaroid-desert-rim.jpg",
                       caption: "Desert Rim",
                     },
                     {
-                      image: "/images/polaroid-forest-cabin.jpg",
+                      image: "./images/polaroid-forest-cabin.jpg",
                       caption: "Forest Cabin",
                     },
                     {
-                      image: "/images/polaroid-coastal-bluff.jpg",
+                      image: "./images/polaroid-coastal-bluff.jpg",
                       caption: "Coastal Bluff",
                     },
                   ].map((M, C) =>
@@ -68011,13 +68011,13 @@ function o2() {
               style: { perspective: 1200 },
               children: [
                 {
-                  image: "/images/season-spring-misty.jpg",
+                  image: "./images/season-spring-misty.jpg",
                   label: "Spring Pick",
                   title: "Misty Trail Setup",
                   cta: "Explore spring kits",
                 },
                 {
-                  image: "/images/season-summer-kitchen.jpg",
+                  image: "./images/season-summer-kitchen.jpg",
                   label: "Summer Pick",
                   title: "Open-Air Kitchen",
                   cta: "Explore summer kits",
