@@ -68427,7 +68427,11 @@ function o2() {
               Q.jsxs("div", {
                 "code-path": "src/App.tsx:995:13",
                 className: "font-sans text-xs text-text-secondary",
-                children: ["© ", new Date().getFullYear(), " Said abdullah asadi"],
+                children: [
+                  "© ",
+                  new Date().getFullYear(),
+                  " Said abdullah asadi",
+                ],
               }),
             ],
           }),
